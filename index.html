@@ -24,6 +24,32 @@
     </header>
 
     <div class="row">
+        <section class="col s10 m8">
+            <div class="row">
+                <!--Daily Forcast Will go Here-->
+                <div class="col s10 dayForecast card">
+                    <h3 class="citySearch">City:</h3>
+                    <img class="weatherIcon" src="" alt="" />
+                    <br>
+                    <!--The temp, humidity and wind speed will be on top og the page-->
+                    <p>Temperature: <span class="temp"></span> °F</p>
+                    <p>Humidity: <span class="humidity"></span> </p>
+                    <p>Wind Speed: <span class="windSpeed"></span> </p>
+                </div>
+            </div>
+            <div class="row">
+                <h4 class="col s10">5-Day Forecast:</h4>
+            </div>
+            <div class="row 5day card center-align">
+                <div class="col s10 m4 l2 card-panel green darken-2">
+                    <!--Used data values so it could iterate from 5-1 and append the correct information to each day-->
+                    <div data-value="1">
+                        <p><span class="date1">date</span></p>
+                        <img class="icon1">icon</img>
+                        <p>Temp: <span class="temperature1">temperature</span>° F</p>
+                        <p>Humidity: <span class="humidity1">humidity</span>%</p>
+                    </div>
+                </div>
         <section class="col s10 m4 green lighten-5">
             <form >
                 <div class="row">

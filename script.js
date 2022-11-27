@@ -16,4 +16,7 @@ $(function () {
     let temp = "";
     let humidity = "";
     let windSpeed = "";
+
+    let currentWeatherURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=c8fbc9fa3913556e3139dc773732726d`;
 }
+
