@@ -1,0 +1,23 @@
+div.header {
+    background-color: black;
+    margin-bottom: 0px;
+}
+
+div.card-panel {
+    color:white;
+    margin: 10px;
+}
+
+button.buttonCity {
+    margin: 5px;
+}
+
+h1 {
+    color: white;
+    padding: 5px;
+    background-color: black;
+}
+
+.textInput {
+    background-color: white;
+}
