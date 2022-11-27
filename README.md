@@ -6,3 +6,4 @@ I was tasked in making a Weather Dashboard that will display the current and fut
 Website: https://aramic11.github.io/weather_app/
 GitHub: https://github.com/aramic11/weather_app
 ## Screenshot
+![Screen Shot 2022-11-27 at 3 50 10 PM](https://user-images.githubusercontent.com/113563367/204159860-b638da15-4054-4892-96e2-9d6f707fc927.png)
